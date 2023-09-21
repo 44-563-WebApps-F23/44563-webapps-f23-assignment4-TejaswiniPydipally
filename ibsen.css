@@ -1,0 +1,65 @@
+.speech {
+
+    color: black;
+
+    font-size: medium;
+
+    font-family: serif;
+
+}
+
+.direction {
+
+    color: black;
+
+    font-size: large;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-style: bold;
+
+    background-color: rgb(229, 235, 237);
+
+}
+
+.MrsStockmann {
+    color: rgb(162, 144, 11);
+    font-family: 'Times New Roman';
+    font-style: bold;
+    font-size: large;
+}
+
+.DrStockmann {
+    color: rgb(0, 255, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+
+.Petra {
+    color: rgb(11, 19, 162);
+    font-family: 'Times New Roman';
+    font-style: bold;
+    font-size: large;
+}
+
+.Hovstad {
+    color: rgb(162, 11, 11);
+    font-family: 'Times New Roman';
+    font-style: bold;
+    font-size: large;
+}
+
+.Billing {
+    color: rgb(162, 11, 152);
+    font-family: 'Times New Roman';
+    font-style: bold;
+    font-size: large;
+}
+
+.direction:hover {
+
+    background-color: rgb(101, 42, 165);
+
+    color: rgb(121, 149, 22);
+}
