@@ -1,25 +1,15 @@
 .speech {
-
     color: black;
-
     font-size: medium;
-
     font-family: serif;
-
 }
 
 .direction {
-
     color: black;
-
     font-size: large;
-
     font-family: 'Times New Roman', Times, serif;
-
     font-style: bold;
-
     background-color: rgb(229, 235, 237);
-
 }
 
 .MrsStockmann {
@@ -27,13 +17,20 @@
     font-family: 'Times New Roman';
     font-style: bold;
     font-size: large;
+    background-color: aquamarine;
 }
+.name{
+    font-size: 15px;
+}
+
+
 
 .DrStockmann {
     color: rgb(0, 255, 0);
     font-family: 'Times New Roman', Times, serif;
     font-style: bold;
     font-size: large;
+    background-color: blanchedalmond;
 }
 
 .Petra {
@@ -41,6 +38,7 @@
     font-family: 'Times New Roman';
     font-style: bold;
     font-size: large;
+    background-color: aqua;
 }
 
 .Hovstad {
@@ -48,6 +46,7 @@
     font-family: 'Times New Roman';
     font-style: bold;
     font-size: large;
+    background-color: antiquewhite;
 }
 
 .Billing {
@@ -55,6 +54,7 @@
     font-family: 'Times New Roman';
     font-style: bold;
     font-size: large;
+    background-color: bisque;
 }
 .table {
     color: rgb(69, 65, 65);
@@ -74,19 +74,7 @@
 
     color: rgb(121, 149, 22);
 }
-h4 {
-    font-family: Calibri;
-    font-style: bold;
-}
-
-h5:hover {
-    text-shadow:
-        1px 1px 2px rgb(17, 236, 21),
-        0 0 1em rgb(218, 226, 209),
-        0 0 0.5em rgb(16, 16, 17);
-    color: white;
-    font: serif;
-    border: 4%;
-    font-size: large;
-
+.name:hover{
+    text-shadow: 5px 5px 3px black;
+    border:2px dotted green;
 }
